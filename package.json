@@ -1,6 +1,6 @@
 {
   "name": "simple-mailer",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Simple module to send emails using Mailgun",
   "main": "index.js",
   "author": "HzJavier <hernandezb.javier@gmail.com> (http://hzjavier.com)",
