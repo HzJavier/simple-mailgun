@@ -1,0 +1,12 @@
+{
+  "name": "simple-mailer",
+  "version": "1.0.0",
+  "description": "Simple module to send emails using Mailgun",
+  "main": "index.js",
+  "author": "HzJavier <hernandezb.javier@gmail.com> (http://hzjavier.com)",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1",
+    "request": "^2.67.0"
+  }
+}
