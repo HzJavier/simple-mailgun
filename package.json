@@ -1,5 +1,5 @@
 {
-  "name": "simple-mailer",
+  "name": "simple-mailgun",
   "version": "0.2.1",
   "keywords": "email, mailgun",
   "repository": "https://github.com/HzJavier/simple-mailer",
