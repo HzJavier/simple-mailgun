@@ -6,7 +6,7 @@ using Mailgun API.
 ## Installation 
 
 ```
-$ npm install simple-mailer
+$ npm install simple-mailgun
 ```
 
 ## Usage
