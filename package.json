@@ -1,8 +1,8 @@
 {
   "name": "simple-mailgun",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "keywords": "email, mailgun",
-  "repository": "https://github.com/HzJavier/simple-mailer",
+  "repository": "https://github.com/HzJavier/simple-mailgun",
   "description": "Simple module to send emails using Mailgun",
   "main": "index.js",
   "author": "HzJavier <hernandezb.javier@gmail.com> (http://hzjavier.com)",
